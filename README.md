@@ -20,6 +20,8 @@ Podatki iz spletne strani so v formatu PX, zato jih bo potrebno primerno obdelat
 
 ### Ugotovitve
 
+Najprej smo primerjali povprečno porabo skozi leta vseh energijskih virov. Iz grafa lahko razberemo, da ima največji delež porabe ogrevanje prostorov. Naslednji po vrsti je ogrevanje vode.
 
+![Vizualizacija1](Podatki/graph1.png)
 
 
