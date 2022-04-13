@@ -16,7 +16,7 @@ Podatki iz spletne strani so v formatu PX, zato jih bo potrebno primerno obdelat
 |   Leto          | Meritve so za vsako leto od 2000 do 2020            |       string         |
 | Energetski vir  |   lesna goriva, električna energija, premog itd.          |    string            |
 |  Namen uporabe  |  kje se energija uporablja (ogrevanje prostorov, kuhanje , itd.)           |    string            |
-| Poraba energije |   Meritev električne energije je v TJ (Terajoules)                    | float |
+| Poraba energije |   Merska enota električne energije je v TJ (Terajoules)                    | float |
 
 ### Ugotovitve
 
