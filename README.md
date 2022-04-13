@@ -20,8 +20,11 @@ Podatki iz spletne strani so v formatu PX, zato jih bo potrebno primerno obdelat
 
 ### Ugotovitve
 
-Najprej smo primerjali povprečno porabo skozi leta vseh energijskih virov. Iz grafa lahko razberemo, da ima največji delež porabe ogrevanje prostorov. Naslednji po vrsti je ogrevanje vode.
+Najprej smo primerjali povprečno porabo skozi leta vseh energijskih virov. Iz grafa lahko razberemo, da ima največji delež porabe ogrevanje prostorov. Naslednji po vrsti je ogrevanje vode. Ostali porabniki predstavljajo zelo majhen delež.
 
-![Vizualizacija1](Podatki/graph1.png)
+![Vizualizacija1](Projekt/graph1.png)
 
+Nato smo preverili kako se poraba dveh največjih električnih porabnikov (ogrevanje prostorov in vode) spreminja skozi leta. V zadnjih petih letih se je poraba ogrevanja prostorov precej zmanjšala. Ogrevanje vode pa je ostalo konstantno.
+
+![Vizualizacija2](Projekt/graph2.png)
 
